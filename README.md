@@ -1,5 +1,5 @@
 # Expectations of Consumers spending
-Studying individuals’ behavior in expected spending through observation is the main propose of this paper
+Studying individuals’ behavior in expected spending through observation is the main propose of this analysis
 which will be determined by the future conditions of buying a vehicle.
 # Questions:
 1- Does consumer sentiment economically illustrate information about future consumer spending?
