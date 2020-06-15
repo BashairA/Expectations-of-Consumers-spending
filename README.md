@@ -9,7 +9,7 @@ which will be determined by the future conditions of buying a vehicle.
 3-What is the effect of other factors such as expected inflation rate, expected unemployment rate, expected interest rate, 
 expected change in prices, and expected business conditions for the country on future spending?
 
-#The dataset
+# The dataset:
 The data used in the paper is the Surveys of Consumers by University of Michigan. The Surveys of Consumers has been managed by 
 the Survey Research Center at the University of Michigan since 1946.
 Each month, 500 individuals are randomly selected from the contiguous
